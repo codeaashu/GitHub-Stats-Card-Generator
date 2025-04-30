@@ -4,7 +4,7 @@
 
 <div align="center">
     <img src="/public/ICON.png" alt="ICON.png" width="215px" />
-  <br><h1 align="center"><a href="https://GitHub-Legacy.vercel.app/"><strong>✦ GitHub Stats Card Generator ✦</strong></a></h1><br>
+  <br><h1 align="center"><a href=""><strong>✦ GitHub Stats Card Generator ✦</strong></a></h1><br>
   
   ` A customizable GitHub stats card generator that creates beautiful SVG cards showing your GitHub statistics, most used languages, contribution history, and top repositories. `
 </div><hr>
@@ -47,10 +47,10 @@
 ### Quick Links
 
 ```markdown
-![GitHub Stats](https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME)
-![Top Languages](https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=languages)
-![Contributions](https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=contributions)
-![Top Repos](https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=top-repos)
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=languages)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=contributions)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=top-repos)
 ```
 
 ### Customization Parameters
