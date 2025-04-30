@@ -4,8 +4,8 @@
 
 <hr>
   <h1 align="center">✦ GitHub Stats Card Generator ✦</h1>
-  <img src="/public/ICON.png" alt="ICON.png" width="100px" />
-  <br><a href="https://git-hub-stats-card-generator.vercel.app/"><strong></strong></a>
+  <img src="/public/ICON.png" alt="ICON.png" width="250px" />
+  <br><a href="https://git-hub-stats-card-generator.vercel.app/"><strong></strong></a><br>
   
   ` A customizable GitHub stats card generator that creates beautiful SVG cards showing your GitHub statistics, most used languages, contribution history, and top repositories. `
 </div><hr>
