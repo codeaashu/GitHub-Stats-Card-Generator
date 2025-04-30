@@ -1,8 +1,18 @@
-# GitHub Stats Card
+<div align="center">  
+                                                                                           
+![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/Resume-Builder)
+  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/Resume-Builder?style=social) 
+  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/Resume-Builder?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
 
-A customizable GitHub stats card generator that creates beautiful SVG cards showing your GitHub statistics, most used languages, contribution history, and top repositories.
-
-![GitHub Stats](https://i.ibb.co/cFLcTrp/Screenshot-2024-12-03-131605.png)
+<hr>
+  <h1 align="center">📋 Introducing to Resume Builder 📋</h1>
+  <img src="./Branding/logo.png" width="100px" />
+  <br><a href="https://resume-builder-pro.vercel.app/"><strong></strong></a>
+  <h4 align="center">✦ GitHub Stats Card Generator ✦</h4>
+  
+  ` A customizable GitHub stats card generator that creates beautiful SVG cards showing your GitHub statistics, most used languages, contribution history, and top repositories. `
+<hr>
 
 ## Features
 
@@ -104,6 +114,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Inspired by various GitHub stats generators
 - Uses GitHub's API
 - Built with Next.js and TypeScript

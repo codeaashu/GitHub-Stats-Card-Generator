@@ -21,8 +21,16 @@ export const metadata: Metadata = {
   title: "GitHub Stats Card Generator",
   description: "A simple and customizable Github Stats Card generator.",
   icons: {
-    icon: "/app/LOGO.png"
-}};
+    icon: "/LOGO.png"
+},
+  openGraph: {
+    title: "GitHub Stats Card Generator",
+    description: "A simple and customizable Github Stats Card generator.",
+    url: "https://github-stats-card-generator.vercel.app/",
+    siteName: "GitHub Stats Card Generator",
+    images: "/LOGO.png", 
+  },
+};
 
 export default function RootLayout({
   children,
@@ -31,6 +39,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+            <head>
+        <link rel="icon" href="/LOGO.png" type="image/png" />
+      </head>
       <body className={`${monaSans.variable} ${geistMono.variable} antialiased`}>
         <ThemeProvider
           attribute="class"
