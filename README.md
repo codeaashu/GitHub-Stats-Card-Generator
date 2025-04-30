@@ -7,7 +7,7 @@
 
 <hr>
   <h1 align="center">📋 Introducing to Resume Builder 📋</h1>
-  <img src="/ICON.png" width="100px" />
+  <img src="/public/ICON.png" alt="ICON.png" width="100px" />
   <br><a href="https://git-hub-stats-card-generator.vercel.app/"><strong></strong></a>
   <h4 align="center">✦ GitHub Stats Card Generator ✦</h4>
   
