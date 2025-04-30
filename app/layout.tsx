@@ -18,9 +18,11 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Github Stats Card",
-  description: "A simple and customizable Github Stats Card",
-};
+  title: "GitHub Stats Card Generator",
+  description: "A simple and customizable Github Stats Card generator.",
+  icons: {
+    icon: "/app/LOGO.png"
+}};
 
 export default function RootLayout({
   children,
@@ -39,7 +41,7 @@ export default function RootLayout({
           <div className="flex justify-end p-4 space-x-2">
             <Button variant="outline" size="icon" asChild>
               <a
-                href="https://github.com/marrrkkk/github-stats-card"
+                href="https://github.com/codeaashu/GitHub-Stats-Card-Generator"
                 target="_blank"
                 rel="noopener noreferrer"
               >
