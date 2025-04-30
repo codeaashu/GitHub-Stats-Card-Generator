@@ -2,7 +2,7 @@
 <a href="https://www.devdisplay.org/" target="_blank"><img src="./public/PoweredByDevDisplay.png" width="300px" /></a>
 </div></br></br>
 
-<div align="center">  
+<div align="center">
     <img src="/public/ICON.png" alt="ICON.png" width="210px" />
   <br><h1 align="center"><a href="https://GitHub-Legacy.vercel.app/"><strong>✦ GitHub Stats Card Generator ✦</strong></a></h1><br>
   
