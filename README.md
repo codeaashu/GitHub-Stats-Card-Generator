@@ -1,18 +1,14 @@
 <div align="center">  
                                                                                            
-![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/Resume-Builder)
-  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/Resume-Builder?style=social) 
-  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/Resume-Builder?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
 
 <hr>
-  <h1 align="center">📋 Introducing to Resume Builder 📋</h1>
+  <h1 align="center">✦ GitHub Stats Card Generator ✦</h1>
   <img src="/public/ICON.png" alt="ICON.png" width="100px" />
   <br><a href="https://git-hub-stats-card-generator.vercel.app/"><strong></strong></a>
-  <h4 align="center">✦ GitHub Stats Card Generator ✦</h4>
   
   ` A customizable GitHub stats card generator that creates beautiful SVG cards showing your GitHub statistics, most used languages, contribution history, and top repositories. `
-<hr>
+</div><hr>
 
 ## Features
 
