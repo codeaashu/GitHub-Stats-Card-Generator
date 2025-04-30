@@ -8,7 +8,7 @@
 <hr>
   <h1 align="center">📋 Introducing to Resume Builder 📋</h1>
   <img src="/ICON.png" width="100px" />
-  <br><a href="https://resume-builder-pro.vercel.app/"><strong></strong></a>
+  <br><a href="https://git-hub-stats-card-generator.vercel.app/"><strong></strong></a>
   <h4 align="center">✦ GitHub Stats Card Generator ✦</h4>
   
   ` A customizable GitHub stats card generator that creates beautiful SVG cards showing your GitHub statistics, most used languages, contribution history, and top repositories. `
