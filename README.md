@@ -3,7 +3,7 @@
 </div></br></br>
 
 <div align="center">  
-    <img src="/public/ICON.png" alt="ICON.png" width="250px" />
+    <img src="/public/ICON.png" alt="ICON.png" width="210px" />
   <br><h1 align="center"><a href="https://GitHub-Legacy.vercel.app/"><strong>✦ GitHub Stats Card Generator ✦</strong></a></h1><br>
   
   ` A customizable GitHub stats card generator that creates beautiful SVG cards showing your GitHub statistics, most used languages, contribution history, and top repositories. `
