@@ -1,8 +1,8 @@
-<div align="center">  
-                                                                                           
-[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
+<div align="center"> 
+<a href="https://www.devdisplay.org/" target="_blank"><img src="./public/PoweredByDevDisplay.png" width="300px" /></a>
+</div></br></br>
 
-<hr>
+<div align="center">  
   <h1 align="center">✦ GitHub Stats Card Generator ✦</h1>
   <img src="/public/ICON.png" alt="ICON.png" width="250px" />
   <br><a href="https://git-hub-stats-card-generator.vercel.app/"><strong></strong></a><br>
@@ -112,3 +112,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Uses GitHub's API
 - Built with Next.js and TypeScript
+- [![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
